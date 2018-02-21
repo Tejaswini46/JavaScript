@@ -1,0 +1,7 @@
+
+
+var array = ["Hill way","or","Highway"];
+console.log(array);
+array.reverse();
+console.log(array,"HOLLA is your way");
+

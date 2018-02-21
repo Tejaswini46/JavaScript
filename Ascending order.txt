@@ -1,0 +1,4 @@
+
+var cities = ["NewYork", "NewJersey", "Connecticut", "Virginia", "Atlanta", "Ohio","Texas","California","Alabama"];
+cities.sort();
+console.log(cities);
